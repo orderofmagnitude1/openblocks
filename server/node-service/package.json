@@ -56,7 +56,7 @@
     "jsonpath": "^1.1.1",
     "lodash": "^4.17.21",
     "loglevel": "^1.8.1",
-    "morgan": "^1.10.0",
+    "morgan": "^1.12.0",
     "node-fetch": "2",
     "openapi-types": "^12.1.0",
     "openblocks-core": "^0.0.7",
