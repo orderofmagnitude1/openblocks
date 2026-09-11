@@ -7114,10 +7114,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"colord@npm:^2.9.3":
-  version: 2.9.3
-  resolution: "colord@npm:2.9.3"
-  checksum: 95d909bfbcfd8d5605cbb5af56f2d1ce2b323990258fd7c0d2eb0e6d3bb177254d7fb8213758db56bb4ede708964f78c6b992b326615f81a18a6aaf11d64c650
+"colord@npm:^2.9.4":
+  version: 2.9.4
+  resolution: "colord@npm:2.9.4"
+  checksum: e0c1174f18a11e9a953262ba35c9c9327208dc7c409988f6466da5879ac9ce212a3ab726387e4ee38ef7d7a2ca93c7aa76dbe173ab5b8390d861a11c3ddcf421
   languageName: node
   linkType: hard
 
@@ -14374,7 +14374,7 @@ __metadata:
     "@rollup/plugin-typescript": ^9.0.2
     "@rollup/plugin-url": ^8.0.1
     "@svgr/rollup": ^6.5.1
-    colord: ^2.9.3
+    colord: ^2.9.4
     react-markdown: ^8.0.0
     react-virtualized: ^9.22.3
     rehype-raw: ^6.1.1
